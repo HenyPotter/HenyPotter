@@ -1,4 +1,4 @@
-### Hi there, I'm Kuba - aka [Heny] 👋
+### Hi there, I'm Kuba - aka Heny 👋
 
 ## I'm a Student, Gamer, Developer, and Teacher!!
 
