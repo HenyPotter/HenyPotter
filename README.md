@@ -39,5 +39,5 @@
 [youtube]: https://www.youtube.com/channel/UCtNUxkdhp5J-yNwa6NgJAEg
 [instagram]: https://instagram.com/holubkuba
 
-![Heny's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Heny's github stats](https://github-readme-stats.vercel.app/api?username=henypotter&show_icons=true&theme=radical)
 
