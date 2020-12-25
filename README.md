@@ -38,7 +38,7 @@
 [twitter]: https://twitter.com/JakubHolub6
 [youtube]: https://www.youtube.com/channel/UCtNUxkdhp5J-yNwa6NgJAEg
 [instagram]: https://instagram.com/holubkuba
-<div align="center">
+
 ![Heny's github stats](https://github-readme-stats.vercel.app/api?username=henypotter&show_icons=true&theme=calm)
-  </div>
+ 
 
