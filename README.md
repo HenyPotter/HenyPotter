@@ -32,9 +32,7 @@
 
 <br />
 <br />
-
-[Heny's github stats](https://github-readme-stats.vercel.app/api?username=henypotter&theme=calm&show_icons=true)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HenyPotter&layout=compact)](https://github.com/HenyPotter/github-readme-stats)
 [website]: https://heny.me
 
 [twitter]: https://twitter.com/JakubHolub6
