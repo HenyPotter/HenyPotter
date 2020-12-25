@@ -32,10 +32,12 @@
 
 <br />
 <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HenyPotter&layout=compact)](https://github.com/HenyPotter/github-readme-stats)
+
 [website]: https://heny.me
 
 [twitter]: https://twitter.com/JakubHolub6
 [youtube]: https://www.youtube.com/channel/UCtNUxkdhp5J-yNwa6NgJAEg
 [instagram]: https://instagram.com/holubkuba
+
+![Heny's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
