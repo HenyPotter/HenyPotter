@@ -32,7 +32,8 @@
 
 <br />
 <br />
-![Heny's github stats](https://github-readme-stats.vercel.app/api?username=henypotter&theme=calm&show_icons=true)
+
+[Heny's github stats](https://github-readme-stats.vercel.app/api?username=henypotter&theme=calm&show_icons=true)
 
 [website]: https://heny.me
 
