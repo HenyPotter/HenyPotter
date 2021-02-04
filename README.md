@@ -33,7 +33,7 @@
 <br />
 <br />
 
-[website]: https://heny.me
+[website]: http://heny.me
 
 [twitter]: https://twitter.com/JakubHolub6
 [youtube]: https://www.youtube.com/channel/UCtNUxkdhp5J-yNwa6NgJAEg
