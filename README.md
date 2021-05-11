@@ -1,6 +1,6 @@
 ### Hi there, I'm Kuba - aka Heny 👋
 
-## I'm a Student, Gamer, Developer, and Teacher!!
+## I'm a Student, Gamer, Developer!!
 
 - 🔭 I just launched my first discord bot: Alffie !
 - 🌱 I’m currently learning everything 🤣
