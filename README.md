@@ -2,7 +2,6 @@
 
 ## I'm a Student, Gamer, Developer!!
 
-- 🔭 I just launched my first discord bot: Alffie !
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more...
