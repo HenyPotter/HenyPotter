@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more...
+- 🥅 2022 Goals: Contribute more...
 - ⚡ Fun fact: I love to play every instrument
 
 
