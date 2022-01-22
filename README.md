@@ -37,7 +37,7 @@
 [twitter]: https://twitter.com/potter_heny
 [youtube]: https://www.youtube.com/channel/UCtNUxkdhp5J-yNwa6NgJAEg
 [instagram]: https://instagram.com/henypottermc
-![Heny's github stats](https://github-readme-stats.vercel.app/api?username=henypotter&show_icons=true&theme=calm)
+![Heny's github stats align="center"](https://github-readme-stats.vercel.app/api?username=henypotter&show_icons=true&theme=calm)
 
  
 
